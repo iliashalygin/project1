@@ -1,6 +1,3 @@
-*{
-    max-width: 1445px;
-}
 a{
     text-decoration: none;
 }
@@ -12,8 +9,7 @@ li{
 }
 .container{
     width: 940px;
-    margin-left: 250px;
-    margin-right: 253px;
+    margin: 0 auto;
 }
 .header{
     padding-top: 33px;
